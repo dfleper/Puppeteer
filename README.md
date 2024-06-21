@@ -13,6 +13,10 @@
 
 ## Video / Video
 
+
+https://github.com/dfleper/Puppeteer/assets/124105822/61c18b7a-6ca5-46db-847d-00ac58d80fa8
+
+
 ## Requirements / Requisitos
 #### 🛠 [Visual Studio Code](https://code.visualstudio.com/) 
 #### 🛠 [Node](https://nodejs.org/) 
